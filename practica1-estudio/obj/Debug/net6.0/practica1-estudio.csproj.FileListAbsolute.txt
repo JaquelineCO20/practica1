@@ -1,0 +1,15 @@
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\bin\Debug\net6.0\practica1-estudio.exe
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\bin\Debug\net6.0\practica1-estudio.deps.json
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\bin\Debug\net6.0\practica1-estudio.runtimeconfig.json
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\bin\Debug\net6.0\practica1-estudio.dll
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\bin\Debug\net6.0\ref\practica1-estudio.dll
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\bin\Debug\net6.0\practica1-estudio.pdb
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.csproj.AssemblyReference.cache
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.AssemblyInfoInputs.cache
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.AssemblyInfo.cs
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.csproj.CoreCompileInputs.cache
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.dll
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\ref\practica1-estudio.dll
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.pdb
+C:\Users\Jackc\Desktop\jack\practicas de programación\practica1-estudio\practica1-estudio\obj\Debug\net6.0\practica1-estudio.genruntimeconfig.cache
